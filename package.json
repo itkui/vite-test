@@ -19,6 +19,9 @@
   },
   "homepage": "https://github.com/itkui/vite-test#readme",
   "dependencies": {
+    "axios": "^0.25.0",
+    "umi-request": "^1.4.0",
+    "umi-request-cancel": "^1.1.6",
     "vite": "^2.7.13"
   },
   "devDependencies": {

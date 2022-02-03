@@ -1,12 +1,12 @@
 import { defineConfig } from "vite";
 
 export default defineConfig({
-  base: "/example/",
+  // base: "/example/",
   define: {
     __VERSION__: JSON.stringify("1.0.0"),
   },
   clearScreen: false,
-  envPrefix: "V_",
+  // envPrefix: "V_",
   json: {
     // stringify: true,
   },
